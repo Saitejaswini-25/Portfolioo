@@ -23,7 +23,7 @@ const Experience: React.FC = () => {
       title: 'Frontend Developer',
       company: 'Engiversee',
       location: 'Remote',
-      period: 'April 2025 – July 2025',
+      period: 'April 2025 – Present',
       description:
         'Contributed to building Engiversee’s official organizational website, enhancing their digital presence. Designed and developed a responsive, SEO-optimized frontend using React.js and Tailwind CSS.',
       achievements: [
