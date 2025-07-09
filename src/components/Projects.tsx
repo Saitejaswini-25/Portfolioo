@@ -57,7 +57,7 @@ const Projects: React.FC = () => {
       image: Portfolioimg,
       technologies: ['Tailwind CSS', 'React', 'Bootstrap','TypeScript'],
       liveUrl: 'https://portfolioo-ebon-psi.vercel.app/',
-      githubUrl: 'https://github.com/Saitejaswini-25/Amazonclone.git',
+      githubUrl: 'https://github.com/Saitejaswini-25/Portfolioo.git',
       date: '2025',
       featured: true,
     },
