@@ -23,7 +23,7 @@ const Experience: React.FC = () => {
       title: 'Frontend Developer',
       company: 'Engiversee',
       location: 'Remote',
-      period: 'April 2025 – Present',
+      period: 'April 2025 – June 2025',
       description:
         'Contributed to building Engiversee’s official organizational website, enhancing their digital presence. Designed and developed a responsive, SEO-optimized frontend using React.js and Tailwind CSS.',
       achievements: [
@@ -31,6 +31,18 @@ const Experience: React.FC = () => {
         'Reduced bug reports by 60% through comprehensive testing',
       ],
       technologies: ['React', 'Typescript', 'Django', 'Firebase', 'TailwindCSS'],
+      type: 'work',
+    },
+    {
+      id: 3,
+      title: 'Full Stack Developer',
+      company: 'Alphastream.AI',
+      location: 'Bangalore',
+      period: 'September 2025 - Present',
+      description:
+        'Building and Enhancing the web application according to Client requirements',
+      achievements:[],
+      technologies: ['FastAPI','Typescript','React','Python','AWS'],
       type: 'work',
     },
   ];
