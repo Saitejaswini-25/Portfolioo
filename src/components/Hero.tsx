@@ -52,7 +52,7 @@ const Hero: React.FC = () => {
         <div className="mb-8 animate-slide-up delay-200">
           <h2 className="text-2xl sm:text-3xl md:text-4xl text-slate-600 dark:text-slate-300 mb-4 font-light">
             <Typewriter
-              words={["Full-Stack Developer", "Frontend Developer"]}
+              words={["Full-Stack Developer", "Backend Developer","Frontend Developer","Software Developer"]}
               loop={0}
               cursor
               cursorStyle="|"
