@@ -12,7 +12,7 @@ const About: React.FC = () => {
     {
       icon: <Zap className="w-8 h-8" />,
       title: 'Backend Development',
-      description: 'Django, Firebase, MongoDB',
+      description: 'Django, Firebase, MongoDB','FastAPI',
       color: 'from-green-500 to-emerald-500'
     },
     {
@@ -27,7 +27,7 @@ const About: React.FC = () => {
 
   const technologies = [
     'React', 'TypeScript', 'Next.js', 'Firebase', 'Python', 'MySQL',
-    'MongoDB', 'Tailwind CSS', 'Figma', 'Git','Razorpay','C++','Django','Javascript'
+    'MongoDB', 'Tailwind CSS', 'Figma', 'Git','Razorpay','C++','Django','Javascript','FastAPI'
   ];
 
   return (
