@@ -12,7 +12,7 @@ const About: React.FC = () => {
     {
       icon: <Zap className="w-8 h-8" />,
       title: 'Backend Development',
-      description: 'Django, Firebase, MongoDB','FastAPI',
+      description: 'Django, Firebase, MongoDB,FastAPI',
       color: 'from-green-500 to-emerald-500'
     },
     {
