@@ -12,8 +12,8 @@ const Contact: React.FC = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: 'Location',
-      value: 'Visakhapatnam, Andhra Pradesh',
-      link: 'https://maps.google.com/?q=Visakhapatnam'
+      value: 'Bangalore,Karnataka',
+      link: 'https://maps.google.com/?q=Bangalore'
     }
   ];
 
