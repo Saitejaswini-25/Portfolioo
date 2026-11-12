@@ -38,11 +38,22 @@ const Experience: React.FC = () => {
       title: 'Full Stack Developer',
       company: 'Alphastream.AI',
       location: 'Bangalore',
-      period: 'September 2025 - Present',
+      period: 'September 2025 - August 2026',
       description:
         'Building and Enhancing the web application according to Client requirements',
       achievements:[],
       technologies: ['FastAPI','Typescript','React','Python','AWS'],
+      type: 'work',
+    },
+    {
+      id: 4,
+      title: 'Member of Technical Staff - 1',
+      company: 'Alphastream.AI',
+      location: 'Bangalore',
+      period: 'September 2026 - Present',
+      description:'Full-stack engineer building and testing web applications with React, Next.js,FastAPI, Playwright and Jest.'
+      achievements:[],
+      technologies: ['FastAPI','Typescript','React','Python','AWS','Jest','LLM','Next.js','Playwright'],
       type: 'work',
     },
   ];
