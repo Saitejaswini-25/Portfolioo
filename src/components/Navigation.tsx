@@ -26,7 +26,7 @@ const Navigation: React.FC = () => {
 
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/Resume_GorantlaSaiTejaswini.pdf';
+    link.href = '/Gorantla_Sai_Tejaswini_Resume_ATS.pdf';
     link.download = 'Saitejaswini.pdf'; 
     link.click();
   };
